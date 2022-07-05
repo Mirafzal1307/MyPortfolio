@@ -1,4 +1,4 @@
-### description
+<!-- ### description
 
 A simple Portfolio template for developer/designers built with React. 
 
@@ -35,6 +35,6 @@ statrt the server
 
 ### Thanks
 If you like this portfolio template don't forget give it a ⭐ 
- 
+  -->
 
 
