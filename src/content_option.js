@@ -1,47 +1,37 @@
-const logotext = "JOHN";
+const logotext = "U.M.M";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "U.M.Muzaffarovich",
+    description: "I’m Usmonjonov Mirafzal front-end devloper,currently working in iTech",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Mirafzal",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I develop web apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I am a front-end developer, currently working in iTech",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A little bit about my self",
+    aboutme: "I’m a nice fun and friendly person, I’m honest and punctual, I work well in a team but also on my own as I like to set myself goals which I will achieve, I have good listening and communication skills. I have a creative mind and am always up for new challenges. I am well organized and always plan ahead to make sure I manage my time well",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Front-end web developer",
+        where: "iTech",
+        date: "until 2020 - now",
     },
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "Typesctipt",
+        value: 80,
     },
     {
-        name: "Djano",
+        name: "Redux",
         value: 85,
     },
     {
@@ -50,26 +40,46 @@ const skills = [{
     },
     {
         name: "React",
-        value: 60,
+        value: 85,
     },
     {
         name: "Jquery",
         value: 85,
     },
+    {
+        name: "Git",
+        value: 85,
+    },
+    {
+        name: "HTML",
+        value: 85,
+    },
+    {
+        name: "CSS",
+        value: 85,
+    },
+    {
+        name: "SASS",
+        value: 80,
+    },
+    {
+        name: "Bootstrap",
+        value: 95,
+    },
+    {
+        name: "Photoshop",
+        value: 75,
+    },
+    {
+        name: "Material UI",
+        value: 80,
+    },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+        title: "Web Development",
+        description: "I develop web apps using React and Redux",
+    }
 ];
 
 const dataportfolio = [{
@@ -136,8 +146,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "usmonjonovmirafzal0713@gmail.com",
+    YOUR_FONE: "(998)93 105-71-34",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
@@ -145,12 +155,12 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    github: "https://github.com/Mirafzal1307",
+    facebook: "https://www.facebook.com/profile.php?id=100074563819796",
+    linkedin: "https://www.linkedin.com/in/mirafzal-usmonjonov-752138227/",
     twitter: "https://twitter.com",
-    youtube: "https://youtube.com",
-    twitch: "https://twitch.com",
+    instagram: "https://www.instagram.com/u.m.muzaffarovich/",
+    telegram: "https://t.me/UMMUZAFFAROVICH",
 };
 export {
     meta,
